@@ -11,5 +11,7 @@ Through static and interactive visualizations, we try to answer the below questi
 6.What makes a host Super host?  
 7.Do regular hosts and super hosts have different cancellation and booking policies?  
 8.Are there any common themes that can be identified from the free-text section of the reviews? What aspects of the rental experience do people like and what aspects do they abhor?  
+9.
+
 
 The data files that have been uploaded are compressed versions since they exceed Github's 100Mb limit. You'll need to extract these files before you run the code.
