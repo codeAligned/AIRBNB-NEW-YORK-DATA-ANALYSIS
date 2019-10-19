@@ -1,4 +1,4 @@
-                                           # AIRBNB-NEW-YORK-DATA-ANALYSIS
+ # AIRBNB-NEW-YORK-DATA-ANALYSIS
 Welcome to the Exploratory Analysis of the Airbnb Dataset! In this project, we aim to understand Airbnb rental landscape in New York City through exploratory analysis on the Airbnb dataset.
 
 Through static and interactive visualizations, we try to answer the below questions:  
